@@ -1,0 +1,45 @@
+大厅信息数据可选项（连空格一起复制）：
+Multiplier:
+Level:
+Karma:
+Achievement Points:
+Quests Completed:
+Ranks Gifted:
+First login: 
+Last login: 
+其他请看info_list
+
+起床信息数据可选项（连空格一起复制）：
+Tokens:
+Winstreak:
+Prestige:
+Level:
+Diamonds Collected:
+Emeralds Collected:
+Gold Collected:
+Iron Collected:
+
+起床各模式选择（连空格一起复制）：
+Solo
+Doubles
+3v3v3v3
+4v4v4v4
+Core Modes
+4v4
+Rush Solo
+Rush Doubles
+Rush 4v4v4v4
+Ultimate Solo
+Ultimate Doubles
+Ultimate 4v4v4v4
+Lucky Doubles
+Lucky 4v4v4v4
+Castle
+Capture
+Swap Doubles
+Swap 4v4v4v4
+Voidless 4v4v4v4
+Overall
+
+K  D  K/D(Normal) 	K  D  K/D(Final) 	 W  L  W/L    Beds Broken
+1   2     3                   4   5     6                    7   8   9         10
